@@ -1,10 +1,20 @@
+
 version: '3.8'
+
 services:
+
 backend:
+    
     build:
+      
       context: .
+      
       dockerfile: Dockerfile
+    
     ports:
+      
       - 8000:8000
+    
     volumes:
+        
         - .:/app
