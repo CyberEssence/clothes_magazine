@@ -5,7 +5,4 @@
 
 ### [_Django_](https://github.com/CyberEssence/clothes_magazine/blob/main/Doker/Django)
 
-
-
-### [_Flask_](https://github.com/CyberEssence/clothes_magazine/blob/main/Dokerfile(Flask).yml.md)
-[3]:https://github.com/CyberEssence/clothes_magazine/blob/main/docker-compose.yml(Flask).yml.md
+### [_Flask_](https://github.com/CyberEssence/clothes_magazine/blob/main/Doker/Flask)
