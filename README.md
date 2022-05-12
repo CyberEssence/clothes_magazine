@@ -6,3 +6,5 @@
 ### [_Django_](https://github.com/CyberEssence/clothes_magazine/blob/main/Doker/Django)
 
 ### [_Flask_](https://github.com/CyberEssence/clothes_magazine/blob/main/Doker/Flask)
+
+### [_Схема_микросервисов_](https://github.com/CyberEssence/clothes_magazine/blob/main/photo_2022-05-12_13-19-18.jpg)
